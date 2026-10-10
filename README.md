@@ -1,4 +1,4 @@
-# ElecroSentinel.X
+
 # ElectroSentinel.X 🛡️⚡
 
 An advanced Embedded Systems monitoring, protection, and diagnostic sentinel designed for real-time electronic parameter supervision, fault detection, and automated fail-safe actions.
